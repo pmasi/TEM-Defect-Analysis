@@ -5,4 +5,12 @@ AtomicCounter.m should be used for atomic-scale images.
 
 DefectAreaMeasure.m should be used for everything else.
 
-Place the corresponding .m file in your current MATLAB directory and run either 'AtomicCounter.m' or 'DefectAreaMeasure.m' from the command line. You will be prompted to open an image file and after selecting one, the code will output the relevant data to the command line.
+Instructions:
+
+1. Place the corresponding .m file in your current MATLAB directory.
+
+2. Run either 'AtomicCounter.m' or 'DefectAreaMeasure.m' from the command line. 
+
+3. You will be prompted to open an image file. After selecting one, the code will output the relevant data to the command line. 
+
+4. Adjustments to the Gaussian and threshold filter values are suggested. Test images are included for comparison.
